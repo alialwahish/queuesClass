@@ -1,7 +1,5 @@
 // Name: Ali Bayati 
-// Problem: Priority Queue
-// Chapter # 8
-// Lab # 10
+// Priority Queue
 
 
 #include<iostream>
